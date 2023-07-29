@@ -53,7 +53,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## What I learned
 
-Another great project to practice form validation. Learned from past mistakes to position error messages corretly. This challenge needs some fix regarding errors as they disappear after some time. I think it will be better if the error is still visible untill the user tries to interact with it, for intance. Because when there are many errors and they all disappear the user won't be able to remember everything by heart.
+This project helped me understand a little more about the syntax and how the logic works in relation to JavaScript. It's a language I'm just starting to learn. So, this was the big challenge for me regarding the project, and it was a great experience. I finished it feeling quite satisfied for having been able to solve it. I also took the opportunity to practice CSS grid with this project.
 
 ## Useful resources
 
