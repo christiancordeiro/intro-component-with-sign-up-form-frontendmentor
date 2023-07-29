@@ -1,0 +1,8 @@
+.footer {
+  grid-column: 1 / -1;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 0.5rem;
+}
